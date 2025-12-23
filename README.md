@@ -86,3 +86,17 @@ I am an **Oracle Certified Generative AI Professional** and **AI Software Develo
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ank920&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
+
+<br/>
+<br/>
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=ank920&label=Profile%20Views&color=0e75b6&style=flat" alt="ank920" />
+  
+  <br/>
+  <br/>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="footer" />
+
+</div>
