@@ -68,6 +68,15 @@ I am an **Oracle Certified Generative AI Professional** and **AI Software Develo
 * 🎓 **Forage Solution Architecture** - Virtual Experience Program (Feb 2025)
 
 ---
+### 📡 Mission Control
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ank920&theme=tokyonight" alt="profile details" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ank920&theme=tokyonight" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ank920&theme=tokyonight" alt="most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ank920&theme=tokyonight&utcOffset=5.5" alt="productive time" />
+</div>
 
 ### 📊 GitHub Analytics
 
@@ -103,4 +112,10 @@ I am an **Oracle Certified Generative AI Professional** and **AI Software Develo
 <div align="center">
   <br/>
   <img src="https://github.com/ank920/ank920/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+<h3 align="center">🛠️ Technical Ecosystem</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,git,github,vscode,docker,aws,gcp,mysql,postgres,mongodb,firebase,postman,selenium,tensorflow,pytorch,opencv,arduino,raspberrypi&perline=25" />
+  </a>
 </div>
