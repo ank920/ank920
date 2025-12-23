@@ -113,6 +113,12 @@ I am an **Oracle Certified Generative AI Professional** and **AI Software Develo
   <br/>
   <img src="https://github.com/ank920/ank920/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
+
+<div align="center">
+  <br/>
+  <p><b>My Code City (3D View):</b></p>
+  <img src="https://github.com/ank920/ank920/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d city" />
+</div>
 <h3 align="center">🛠️ Technical Ecosystem</h3>
 <div align="center">
   <a href="https://skillicons.dev">
