@@ -1,46 +1,83 @@
-<h2 align="left">Hi 👋! My name is Ankit  and I'm a Student from India</h2>
+<div align="center">
+ 
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Ankit%20Verma&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20SDE%20%7C%20Oracle%20Certified%20GenAI%20Pro%20%7C%20Automation%20Lead&descAlignY=51&descAlign=62)
 
-###
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Generative+AI+%26+LLM+Specialist;Oracle+Certified+Cloud+Architect;Building+Autonomous+AI+Agents;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxQ8HPiWlUb9TJy1sSBxbHn4QHSID4e2YsbJJvStDo7h0eRtMv4hC84uDLJwZnvZQC4tg&usqp=CAU"  />
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ankit-verma-952b69371/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" />
+    </a>
+  </p>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+### 👨‍💻 About Me
+
+> **"Optimizing workflows with Agents, scaling logic with Cloud."**
+
+I am an **Oracle Certified Generative AI Professional** and **AI Software Development Engineer (SDE)**. My expertise lies in building LangChain-based agents, architecting OCI cloud solutions, and automating complex business pipelines.
+
+* 🔭 **Current Role:** Generative AI & Automation Lead @ **Calyco**.
+* 💼 **Experience:** Former Independent AI/ML Engineer (Built agents reducing manual effort by **70%**).
+* ☁️ **Cloud & AI:** Certified in **Oracle Cloud Infrastructure (OCI)** & **Generative AI**.
+* 🎓 **Learning:** Completed **McKinsey Forward Program** (Structured Problem Solving).
+
+---
+
+### 🎖️ Certifications & Badges
+| **Generative AI** | **Cloud Architecture** | **Professional Skills** |
+| :--- | :--- | :--- |
+| ![Oracle GenAI](https://img.shields.io/badge/Oracle-GenAI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white) | ![OCI Architect](https://img.shields.io/badge/Oracle-OCI_Architect_Associate-F80000?style=flat-square&logo=oracle&logoColor=white) | ![McKinsey](https://img.shields.io/badge/McKinsey-Forward_Program-blue?style=flat-square) |
+| *Score: 94%* | *Issued Nov 2025* | *Problem Solving* |
+
+---
+
+### 🛠️ Technical Arsenal
+
+| **GenAI & ML** | **Cloud & DevOps** | **Full Stack** |
+| :--- | :--- | :--- |
+| ![LangChain](https://img.shields.io/badge/LangChain-🦜️🔗-white?style=for-the-badge) | ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+
+---
+
+### 🚀 Featured Experience & Projects
+
+| **Role / Project** | **Tech Stack** | **Impact & Description** |
+| :--- | :--- | :--- |
+| **Generative AI Lead**<br/>*@ Calyco Products* | `Python` `Power Automate` `SEO` | Led the automation of content pipelines. Built a bot ecosystem that generates **30+ SEO-optimized blogs** automatically, increasing organic traffic. |
+| **Independent AI Engineer**<br/>*Freelance* | `LangChain` `Docker` `SQL` | **Reduced manual effort by 70%** and increased throughput by 3x by building custom LLM agents for web automation and structured data extraction. |
+| **Solera Life Store**<br/>*Full Stack Dev* | `JS` `Payment Gateway` | Engineered a complete e-commerce platform with **custom payment integrations** and dynamic coupon logic (1500-1900 range) for inventory management. |
+| **Medical AI**<br/>*Data Science* | `Python` `ML` `Pandas` | Developed a **Diabetes Prediction Model** using patient health data, optimized for high accuracy in early diagnosis. |
+
+---
+
+### 🏆 Achievements & Hackathons
+* 🥈 **i.mobilothon 4.0** - Participant (Volkswagen Group Technology Solutions India)
+* 🌟 **Tata Imagination Challenge 2024** - Student Track Participant
+* 🎓 **Forage Solution Architecture** - Virtual Experience Program (Feb 2025)
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ank920&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ank920&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ank920&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
 </div>
 
-###
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ank920&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
