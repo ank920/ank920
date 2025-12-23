@@ -100,3 +100,7 @@ I am an **Oracle Certified Generative AI Professional** and **AI Software Develo
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="footer" />
 
 </div>
+<div align="center">
+  <br/>
+  <img src="https://github.com/ank920/ank920/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
