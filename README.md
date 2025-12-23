@@ -119,9 +119,31 @@ I am an **Oracle Certified Generative AI Professional** and **AI Software Develo
   <p><b>My Code City (3D View):</b></p>
   <img src="https://github.com/ank920/ank920/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d city" />
 </div>
+
+
 <h3 align="center">🛠️ Technical Ecosystem</h3>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,html,css,react,git,github,vscode,docker,aws,gcp,mysql,postgres,mongodb,firebase,postman,selenium,tensorflow,pytorch,opencv,arduino,raspberrypi&perline=25" />
   </a>
+</div>
+
+<div align="center">
+  
+  <br/>
+  
+  <h3>🏙️ My Code City</h3>
+  <img src="https://github.com/ank920/ank920/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d city" />
+  
+  <br/>
+  <br/>
+
+  <h3>🧠 Daily Wisdom</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+  <br/>
+  <br/>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="footer" />
+
 </div>
