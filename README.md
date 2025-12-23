@@ -1,6 +1,6 @@
 <div align="center">
  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Ankit%20Verma&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20SDE%20%7C%20Oracle%20Certified%20GenAI%20Pro%20%7C%20Automation%20Lead&descAlignY=51&descAlign=62)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ankit%20Verma&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20SDE%20%7C%20Oracle%20Certified%20GenAI%20Pro%20%7C%20Automation%20Lead&descAlignY=51&descAlign=62)
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Generative+AI+%26+LLM+Specialist;Oracle+Certified+Cloud+Architect;Building+Autonomous+AI+Agents;Open+Source+Contributor" alt="Typing SVG" />
@@ -8,10 +8,10 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/ankit-verma-952b69371/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" />
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 
@@ -35,7 +35,7 @@ I am an **Oracle Certified Generative AI Professional** and **AI Software Develo
 ### 🎖️ Certifications & Badges
 | **Generative AI** | **Cloud Architecture** | **Professional Skills** |
 | :--- | :--- | :--- |
-| ![Oracle GenAI](https://img.shields.io/badge/Oracle-GenAI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white) | ![OCI Architect](https://img.shields.io/badge/Oracle-OCI_Architect_Associate-F80000?style=flat-square&logo=oracle&logoColor=white) | ![McKinsey](https://img.shields.io/badge/McKinsey-Forward_Program-blue?style=flat-square) |
+| ![Oracle GenAI](https://img.shields.io/badge/Oracle-GenAI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![OCI Architect](https://img.shields.io/badge/Oracle-OCI_Architect_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![McKinsey](https://img.shields.io/badge/McKinsey-Forward_Program-051C2C?style=for-the-badge&logo=mckinsey&logoColor=white) |
 | *Score: 94%* | *Issued Nov 2025* | *Problem Solving* |
 
 ---
@@ -44,7 +44,8 @@ I am an **Oracle Certified Generative AI Professional** and **AI Software Develo
 
 | **GenAI & ML** | **Cloud & DevOps** | **Full Stack** |
 | :--- | :--- | :--- |
-| ![LangChain](https://img.shields.io/badge/LangChain-🦜️🔗-white?style=for-the-badge) | ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| | | |
+| ![LangChain](https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=python&logoColor=white) | ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 
@@ -71,13 +72,17 @@ I am an **Oracle Certified Generative AI Professional** and **AI Software Develo
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ank920&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ank920&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ank920&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  <a href="https://github.com/ank920">
+    <img src="https://github-readme-stats.vercel.app/api?username=ank920&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
+  </a>
+  
+  <a href="https://github.com/ank920">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ank920&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ank920&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=ank920&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
